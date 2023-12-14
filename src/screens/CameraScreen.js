@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, TouchableOpacity, Image, Alert, StyleSheet } from 'react-native';
-import { FontAwesome5 } from '@expo/vector-icons'; // Import FontAwesome5 from @expo/vector-icons
+import { FontAwesome5 } from '@expo/vector-icons'; 
 import * as ImagePicker from 'expo-image-picker';
 
 const CameraScreen = () => {
